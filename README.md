@@ -59,6 +59,4 @@ Includes persistence, which is expected in industry-level systems.
 Matches hiring expectations of product-based companies like Kovair.
 Perfect for placement portfolio, GitHub showcase, and resumes.
 
-###### LIPSA PATTANAIK
-###### ITER SOA UNIVERSITY
-###### BHUBANESWAR
+###### LIPSA PATTANAIK | ITER SOA UNIVERSITY | BHUBANESWAR
