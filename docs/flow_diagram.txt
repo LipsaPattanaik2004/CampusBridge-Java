@@ -1,0 +1,4 @@
+[User] → (Main.java)
+   → StudentManager
+      → StorageManager (load/save)
+      → Student (model)
