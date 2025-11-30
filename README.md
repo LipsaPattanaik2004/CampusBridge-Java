@@ -1,5 +1,5 @@
 # CampusBridge-Java – OOP Student Management System
-# Java | OOPS | Collections | File Handling | Persistence | Modular Architecture
+## Java | OOPS | Collections | File Handling | Persistence | Modular Architecture
 
 ## CampusBridge-Java is a fully implemented Object-Oriented Student Management System built using Java.
 It demonstrates strong OOPS principles, modular design, CRUD operations, attendance tracking, and file-based persistence — making it ideal for learning, interviews, and product-based evaluations.
